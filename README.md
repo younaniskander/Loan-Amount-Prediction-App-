@@ -1,5 +1,7 @@
-Loan-Amount-Prediction-App project in points with steps in each point:
-check code:
+# 💰 Loan Amount Prediction App 💳 
+
+## project in points with steps in each point:
+### check code:
 https://www.kaggle.com/younaniskander/code
 
 ![image](https://github.com/younaniskander/Loan-Amount-Prediction-App-/assets/87044703/a955650f-79ba-41ec-a9ac-146995819923)
