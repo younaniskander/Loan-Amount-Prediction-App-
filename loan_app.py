@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 
 # Load the model
-model = joblib.load('model.pkl')
+model = joblib.load('final_model.pkl')
 Inputs = joblib.load('Inputs.pkl')
 # Define the prediction function
 def prediction(Gender, Married, Dependents, Education, Self_Employed, LoanAmount, Loan_Amount_Term, Credit_History, Property_Area, total_income):
