@@ -26,6 +26,7 @@ Split the data into training and testing sets.
 Trained several machine learning models on the loan dataset to predict the loan amount.
 Evaluated the performance of the models using various metrics and selected the best performing model.
 ## 🚀 Deployment:
+https://loan-amount-prediction-app--epoqmiuzpy9.streamlit.app/
 
 Deployed the machine learning model as a Streamlit web application for easy use by end-users.
 The Loan-Amount-Prediction-App allows end-users to input their data and get the predicted loan amount.
