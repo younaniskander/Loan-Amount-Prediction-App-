@@ -4,7 +4,7 @@ import joblib
 
 # Load the model
 model = joblib.load('final_model.pkl')
-inputs = joblib.load('fInputs.pkl')
+inputs = joblib.load('Inputs.pkl')
 
 # Define the prediction function
 def prediction(Gender, Married, Dependents, Education, Self_Employed, LoanAmount, Loan_Amount_Term, Credit_History, Property_Area, total_income):
